@@ -5,7 +5,7 @@ Welcome to Promptopia, an open-source AI prompting tool designed for the modern 
 ## About
 
 - **Creator:** Vaibhav
-- **Demo Website:** [xyz.com](https://xyz.com)
+- **Demo Website:** [xyz.com](https://promptopia-shanuv000.vercel.app/)
 - **LinkedIn:** [Vaibhav's LinkedIn](https://www.linkedin.com/in/shanuv000/)
 - **Contact:** proshanu@gmail.com
 
@@ -30,7 +30,7 @@ Promptopia is a versatile platform that caters to writers, artists, programmers,
 
 ## Getting Started
 
-1. Explore the [Demo Website](https://xyz.com) to get a feel for Promptopia.
+1. Explore the [Demo Website](https://promptopia-shanuv000.vercel.app/) to get a feel for Promptopia.
 2. Clone the repository: `git clone https://github.com/your-username/promptopia.git`
 3. Follow the setup instructions in the [Documentation](docs/README.md).
 4. Start discovering, creating, and sharing creative prompts!
@@ -41,6 +41,6 @@ We welcome contributions! Check out the [Contribution Guidelines](CONTRIBUTING.m
 
 ## Feedback
 
-Have suggestions or encountered issues? Feel free to open an [Issue](https://github.com/your-username/promptopia/issues).
+Have suggestions or encountered issues? Feel free to open an [Issue](https://github.com/shanuv000/promptopia/issues).
 
 Let's build a vibrant creative community together with Promptopia!
