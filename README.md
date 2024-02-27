@@ -5,7 +5,7 @@ Welcome to Promptopia, an open-source AI prompting tool designed for the modern 
 ## About
 
 - **Creator:** Vaibhav
-- **Demo Website:** [xyz.com](https://promptopia-shanuv000.vercel.app/)
+- **Demo Website:** [Promptopia](https://promptopia-shanuv000.vercel.app/)
 - **LinkedIn:** [Vaibhav's LinkedIn](https://www.linkedin.com/in/shanuv000/)
 - **Contact:** proshanu@gmail.com
 
