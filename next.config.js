@@ -4,6 +4,7 @@ const nextConfig = {
     serverComponents: true,
     reactRoot: true,
     externalDir: true,
+    missingSuspenseWithCSRBailout: false,
   },
   images: {
     domains: ["lh3.googleusercontent.com"],
