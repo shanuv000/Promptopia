@@ -53,13 +53,18 @@ const UpdatePrompt = () => {
   };
 
   return (
-    <Form
-      type="Edit"
-      post={post}
-      setPost={setPost}
-      submitting={submitting}
-      handleSubmit={updatePrompt}
-    />
+    <>
+      {!post && <div>Loading...</div>}
+      {post && (
+        <Form
+          type="Edit"
+          post={post}
+          setPost={setPost}
+          submitting={submitting}
+          handleSubmit={updatePrompt}
+        />
+      )}
+    </>
   );
 };
 
