@@ -23,9 +23,10 @@ const MyProfile = () => {
         await fetch(`/api/prompt/${post._id.toString()}`, { method: "DELETE" });
         const filteredPosts = post.filter((p) => p._id !== post._id);
         setPosts(filteredPosts);
-        router.push("/");
       } catch (error) {
         console.log(error);
+      } finally {
+        router.push("/");
       }
     }
   };
