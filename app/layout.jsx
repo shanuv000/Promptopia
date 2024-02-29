@@ -5,6 +5,7 @@ import Provider from "@components/Provider";
 export const metadata = {
   title: "Promptopia",
   description: "Discover & Share AI Prompts",
+  image: "https://cdn-icons-png.flaticon.com/512/2175/2175193.png",
 };
 
 const RootLayout = ({ children }) => {
