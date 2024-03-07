@@ -8,7 +8,7 @@ const RootLayout = ({ children }) => {
   const promp1 = prompImg;
   const siteUrl = "https://promptopia-shanuv000.vercel.app/";
   return (
-    <>
+    <div>
       <Head>
         {/* Basic meta tags */}
         <meta charSet="utf-8" />
@@ -42,7 +42,6 @@ const RootLayout = ({ children }) => {
         <meta property="og:url" content={siteUrl} />
         <meta property="og:type" content="website" />
       </Head>
-
       {/* Rest of the layout */}
       <Provider>
         <div className="main">
@@ -53,7 +52,8 @@ const RootLayout = ({ children }) => {
           {children}
         </main>
       </Provider>
-    </>
+      /
+    </div>
   );
 };
 
