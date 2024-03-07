@@ -1,5 +1,7 @@
 # Promptopia
 
+![GitHub repo size](https://img.shields.io/github/repo-size/shanuv000/Promptopia)
+
 Welcome to Promptopia, an open-source AI prompting tool designed for the modern world. This tool empowers users to discover, create, and share creative prompts, serving as a catalyst for imaginative endeavors.
 
 ## About
