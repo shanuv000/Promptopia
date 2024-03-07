@@ -5,6 +5,8 @@ import Provider from "@components/Provider";
 export const metadata = {
   title: "Promptopia",
   description: "Discover & Share AI Prompts",
+  keywords: ["AI", "Prompts", "Promptopia", "Vaibhav"],
+  metadataBase: new URL("https://promptopia-shanuv000.vercel.app/"),
 };
 
 const RootLayout = ({ children }) => (
