@@ -1,6 +1,9 @@
 import React from "react";
 import Head from "next/head";
-const Head = () => {
+import prompImg from "../promp1.jpg";
+const Heading = () => {
+  const promp1 = prompImg;
+  const siteUrl = "https://promptopia-shanuv000.vercel.app/";
   return (
     <Head>
       {/* Basic meta tags */}
@@ -35,4 +38,4 @@ const Head = () => {
   );
 };
 
-export default Head;
+export default Heading;

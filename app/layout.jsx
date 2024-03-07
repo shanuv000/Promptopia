@@ -1,15 +1,13 @@
 import React from "react";
-import Head from "@components/Head";
+import Heading from "@components/Heading";
 import "@styles/globals.css";
 import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 import prompImg from "../promp1.jpg";
 const RootLayout = ({ children }) => {
-  const promp1 = prompImg;
-  const siteUrl = "https://promptopia-shanuv000.vercel.app/";
   return (
-    <>
-      {/* <Head /> */}
+    <main>
+      <Heading />
       {/* Rest of the layout */}
       <Provider>
         <div className="main">
@@ -21,7 +19,7 @@ const RootLayout = ({ children }) => {
         </main>
       </Provider>
       /
-    </>
+    </main>
   );
 };
 
